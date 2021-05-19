@@ -9,6 +9,12 @@ A multithreaded console chat application designed to demonstrate client-server a
 
 ## Installation
 
+### Default
+
+1. Download the jar file from the latest release.
+
+### Custom
+
 Although this repository should be using the latest version of the core volatil package, to ensure you have the most up-to-date version you will need to do the following:
 
 1. Download the latest version of the core volatil package [here]().
