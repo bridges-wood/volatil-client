@@ -24,7 +24,7 @@
     <dependency>
       <groupId>com.volatil</groupId>
       <artifactId>core</artifactId>
-      <version>latest</version>
+      <version>1.1.0</version>
     </dependency>
   </dependencies>
 
